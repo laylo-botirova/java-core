@@ -6,6 +6,7 @@ public class Practice1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+
         System.out.println("1-task");
         task1();
 
@@ -33,7 +34,6 @@ public class Practice1 {
         System.out.println("6-task . N: ");
         int n6 = scanner.nextInt();
         task6(n6);
-
 
 
         //task-7 is repeated

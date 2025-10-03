@@ -68,6 +68,7 @@ public class QuestGame {
                     System.out.println("you join the project and become part of it.");
                     System.out.println("ending: secret member");
                 }
+
             }
         }
 
