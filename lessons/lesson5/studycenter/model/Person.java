@@ -18,5 +18,5 @@ public abstract class Person {
         return email;
     }
 
-   public abstract String getRole();
+    public abstract String getRole();
 }

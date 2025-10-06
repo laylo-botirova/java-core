@@ -25,6 +25,7 @@ public class Course {
                 System.out.println(name+ " attendance: "+(isPresent ? " present.": " absent"));
                 found = 1;
                 break;
+
             }
 
         }
