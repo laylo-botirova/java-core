@@ -8,7 +8,7 @@ public class Main {
         Predicate<String> isValid = s -> s != null && !s.isEmpty() && s.length() > 3;
         System.out.println(isValid.test("test"));
 
-        // 2. dlina stroki
+        // 2.dlina stroki
         Function<String, Integer> lengthFunc = String::length;
         System.out.println(lengthFunc.apply("java"));
 
